@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jona-vz
-- 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning SciKit Learn
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Tensor Flow and django
 - 📫 How to reach me ... via email: jonathan.vz.alvarado@gmail.com
 
 <!---
